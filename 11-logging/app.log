@@ -1,0 +1,5 @@
+2024-12-14 10:39:29 - custom_logger - DEBUG - This is a debug message
+2024-12-14 10:39:29 - custom_logger - INFO - This is an info message
+2024-12-14 10:39:29 - custom_logger - WARNING - This is a warning message
+2024-12-14 10:39:29 - custom_logger - ERROR - This is an error message
+2024-12-14 10:39:29 - custom_logger - CRITICAL - This is a critical message
